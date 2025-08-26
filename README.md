@@ -25,8 +25,8 @@ It includes everything from the first month of transactions to the preparation o
 - Financial reporting (IS & BS) in Excel  
 - Documentation of an accounting cycle  
 
-📄 Data Source
-The data used in this project is sourced from the 365 Financial Analyst course, specifically the "Accounting for ABC Retail" dataset provided in the course materials.
+## 📄 Data Source
+- The data used in this project is sourced from the 365 Financial Analyst course, specifically the "Accounting for ABC Retail" dataset provided in the course materials.
 
 ## 🛠️ Tools Used
 - Microsoft Excel  
